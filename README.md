@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Allen<br>👀 I’m interested in Web Designs<br>🌱 I’m currently learning front-end lessons such as React JS<br>💞️ I’m looking forward to be an Intern in order to further enhance my knowledge to th real-world projects.
+<br>👋 Hi, I’m Allen<br>👀 I’m interested in Web Designs<br>🌱 I’m currently learning front-end lessons such as React JS<br>💞️ I’m looking forward to be an Intern in order to further enhance my knowledge to the real-world projects.
 
 
 ## 🌐 Socials:

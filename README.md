@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://intro-web-dev.media-ed-online.com/img/posts/easy-peasy.jpg" width="512px"/>
 
 ---
